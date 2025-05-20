@@ -8,12 +8,12 @@ But I'm gonna figure it out
 
 Make starting decisions:
 
-starting languages
+starting languages: javascript
 
-CI/CD/Testing?
+CI/CD/Testing? Yes
 
-Requirements
+Requirements: ... fuck if we know
 
-UX/UI design
+UX/UI design: figure it out later
 
-Documentation (I dont wanna)
+Documentation (I dont wanna): Pls don't make me
