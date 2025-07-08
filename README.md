@@ -1,3 +1,7 @@
+# Notes
+
+mainURL = "http://localhost:[port]/app/index.html
+
 # osbdb
 
 Bro I got no idea what I'm doing
