@@ -4,9 +4,7 @@ mainURL = "http://localhost:[port]/app/index.html
 
 # osbdb
 
-Bro I got no idea what I'm doing
-
-But I'm gonna figure it out
+I sorta know what I'm doing
 
 ## TODO
 
