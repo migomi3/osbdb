@@ -1,7 +1,8 @@
 process.loadEnvFile();
 export const config = {
     api: {
-        port: Number(envOrThrow("PORT"))
+        port: Number(envOrThrow("PORT")),
+        fileServerHits: 0,
     }
 };
 //I wanted to put this in the helpers.ts file but apperently the compilation

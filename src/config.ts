@@ -6,11 +6,13 @@ type Config = {
 
 type APIConfig = {
     port: number;
+    fileServerHits: number;
 }
 
 export const config: Config = {
     api: {
-        port: Number(envOrThrow("PORT"))
+        port: Number(envOrThrow("PORT")),
+        fileServerHits: 0,
     }
 }
 
