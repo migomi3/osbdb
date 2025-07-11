@@ -1,6 +1,7 @@
 # Notes
 
 mainURL = "http://localhost:[port]/app/index.html
+testing discord webhook
 
 # osbdb
 
