@@ -1,7 +1,6 @@
 # Notes
 
 mainURL = "http://localhost:[port]/app/index.html
-test 4
 
 # osbdb
 
